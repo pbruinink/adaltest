@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADAL_Android.Android", "ADAL_Android.Android\ADAL_Android.Android.csproj", "{1E5CB9D0-F789-4805-97D6-366A16DCD6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADAL_Android", "ADAL_Android\ADAL_Android.csproj", "{43EC3587-B83D-4C1D-86D0-8A700913F08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5CB9D0-F789-4805-97D6-366A16DCD6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5CB9D0-F789-4805-97D6-366A16DCD6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5CB9D0-F789-4805-97D6-366A16DCD6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5CB9D0-F789-4805-97D6-366A16DCD6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EC3587-B83D-4C1D-86D0-8A700913F08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EC3587-B83D-4C1D-86D0-8A700913F08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EC3587-B83D-4C1D-86D0-8A700913F08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EC3587-B83D-4C1D-86D0-8A700913F08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
